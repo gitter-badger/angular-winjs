@@ -1,6 +1,8 @@
 angular-winjs
 =============
 
+[![Join the chat at https://gitter.im/EdVaIl/angular-winjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EdVaIl/angular-winjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Project to smooth the AngularJS/WinJS interaction. This code is a shim layer which facilitates usage of WinJS UI controls in an Angular Windows application. It achieves this by creating directives for the various controls which allow them to show up in Angular markup like:
 
 How to use this in your Angular project?
